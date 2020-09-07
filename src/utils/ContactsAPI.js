@@ -1,4 +1,4 @@
-const api = process.env.REACT_APP_CONTACTS_API_URL || 'http://localhost:5001'
+const api = process.env.REACT_APP_CONTACTS_API_URL || 'https://musing-mahavira-8a6577.netlify.app/'
 
 let token = localStorage.token
 
