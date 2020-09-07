@@ -1,4 +1,4 @@
-# Contacts Project
+# Contacts App Project
 
 This repo is a contains the code of a contacts app I built as part of the React Nanodegree program offered by Udacity.
 
