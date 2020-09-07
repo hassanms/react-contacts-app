@@ -2,6 +2,10 @@
 
 This repo is a contains the code of a contacts app I built as part of the React Nanodegree program offered by Udacity.
 
+## Project Demo
+
+https://suspicious-jackson-f3ee7b.netlify.app/
+
 ## Project Setup
 
 * clone the Project - `git clone https://github.com/hassanms/react-contacts-app.git`
