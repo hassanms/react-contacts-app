@@ -1,17 +1,15 @@
 # Contacts Project
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
-
-Most of the commits in this repository correspond to videos in the program.
+This repo is a contains the code of a contacts app I built as part of the React Nanodegree program offered by Udacity.
 
 ## Project Setup
 
-* clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
+* clone the Project - `git clone https://github.com/hassanms/react-contacts-app.git`
 * install the dependencies - `npm install`
 
 ## Contributing
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+Please feel free to contribute to the project and if you want to add momre functionality, you are more than welcome.
 
 If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
 
