@@ -1,6 +1,6 @@
 # Contacts App Project
 
-This repo is a contains the code of a contacts app I built as part of the React Nanodegree program offered by Udacity.
+This repo is a contains the code of a contacts app I built as part of the React Nanodegree program offered by Udacity. The Nodejs API is deployed on Amazon EC2 and the React frontend is deployed on Netlify.
 
 ## Project Demo
 
