@@ -6,6 +6,8 @@ This repo is a contains the code of a contacts app I built as part of the React 
 
 https://suspicious-jackson-f3ee7b.netlify.app/
 
+`API` http://13.58.226.235:5001/
+
 ## Project Setup
 
 * clone the Project - `git clone https://github.com/hassanms/react-contacts-app.git`
